@@ -1,6 +1,6 @@
 # React Clone
 
-A tiny React-like library built from scratch in vanilla JavaScript.  
+A tiny React-like library built from scratch in JavaScript.  
 This project re-implements some of React’s core ideas — **fiber architecture, reconciliation, hooks, and event handling** — in a lightweight way.
 
 ## Features
